@@ -42,6 +42,8 @@ Your Glue job needs permission to read from and write to S3.
 6.  Set the **Name** to `process_reviews_job`.
 7.  Select the `AWSGlueServiceRole-Reviews` **IAM Role** you created in the previous step.
 8.  Save the job.
+![Glue Job](https://raw.githubusercontent.com/chirradhanush/Hands-on-12-Spark-on-AWS/main/Glue%20Job.png)
+
 
 > **Note:** The script is already configured to use the `handsonfinallanding` and `handsonfinalprocessed` buckets.
 
