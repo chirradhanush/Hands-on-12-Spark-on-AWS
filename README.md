@@ -106,6 +106,7 @@ Your pipeline is now fully deployed and automated!
 ## Query Results
 
 After the job (which may take 2-3 minutes to run), navigate to your `handsonfinalprocessed` bucket. You will find the results in the `Athena Results/` folder, organized into sub-folders for each query:
+![Processed Folder](https://raw.githubusercontent.com/chirradhanush/Hands-on-12-Spark-on-AWS/main/Processed%20Folder.png)
 
 * `s3://handsonfinalprocessed/Athena Results/daily_review_counts/`
 * `s3://handsonfinalprocessed/Athena Results/top_5_customers/`
